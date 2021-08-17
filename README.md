@@ -18,7 +18,7 @@ of the problem and ideally a screenshot.
 
 Inspired by numerous web articles about light colour themes and less colourful
 syntax highlighting. I don't expect anyone else to like or use this. It's
-published on GitHub so I can install it with the rest of the Vim plugins I use.
+published publicly so I can install it with the rest of the Vim plugins I use.
 Most colour and typography choices are arbitrary and reflect my whims or
 laziness.
 
