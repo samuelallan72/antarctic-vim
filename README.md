@@ -22,14 +22,7 @@ published publicly so I can install it with the rest of the Vim plugins I use.
 Most colour and typography choices are arbitrary and reflect my whims or
 laziness.
 
-## Screenshots
-
-![](https://static.swalladge.net/vim/antarctic-vim/screenshot1.png)
-
-![](https://static.swalladge.net/vim/antarctic-vim/screenshot2.png)
-
-![](https://static.swalladge.net/vim/antarctic-vim/screenshot3.png)
-
+See <https://www.swalladge.net/projects/antarctic-vim/> for screenshots.
 
 ## Installation
 
@@ -60,6 +53,9 @@ Ruby must be installed (for the `erb` command).
 Edit the variables in `colors/paper.erb` and run `make` to build
 `colors/antarctic.vim`. `colors/antarctic.vim` should not be edited directly.
 
+## Contributing
+
+For any comments, feedback, patches, please send an email to this mailing list: ~swalladge/public-inbox@lists.sr.ht ([archives](https://lists.sr.ht/~swalladge/public-inbox)).
 
 
 ## License
