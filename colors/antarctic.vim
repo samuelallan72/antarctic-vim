@@ -60,7 +60,7 @@ hi SpellBad ctermbg=224 ctermfg=234 cterm=NONE guibg=#ffd7d7 guifg=#1c1c1c gui=N
 hi SpellCap ctermbg=219 ctermfg=234 cterm=NONE guibg=#ffafff guifg=#1c1c1c gui=NONE
 hi SpellLocal ctermbg=223 ctermfg=234 cterm=NONE guibg=#ffd7af guifg=#1c1c1c gui=NONE
 hi SpellRare ctermbg=225 ctermfg=234 cterm=NONE guibg=#ffd7ff guifg=#1c1c1c gui=NONE
-hi ColorColumn ctermbg=254 ctermfg=NONE cterm=NONE guibg=#e4e4e4 guifg=NONE gui=NONE
+hi ColorColumn ctermbg=252 ctermfg=NONE cterm=NONE guibg=#d0d0d0 guifg=NONE gui=NONE
 hi SignColumn ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
 hi ErrorMsg ctermbg=218 ctermfg=234 cterm=NONE guibg=#ffafd7 guifg=#1c1c1c gui=NONE
 hi ModeMsg ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
