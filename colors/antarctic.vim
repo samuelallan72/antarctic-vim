@@ -1,6 +1,5 @@
 " antarctic.vim -- Vim color scheme.
-" Author:      swalladge (samuel@swalladge.net)
-" Webpage:     https://github.com/swalladge/antarctic-vim
+" Author:      Samuel Walladge (samuel@swalladge.net)
 " Description: A readable light theme
 
 hi clear
