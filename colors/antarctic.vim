@@ -21,6 +21,7 @@ hi Error ctermbg=210 ctermfg=234 cterm=NONE guibg=#ff8787 guifg=#1c1c1c gui=NONE
 hi Identifier ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Ignore ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi PreProc ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
+hi Function ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Special ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Statement ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi String ctermbg=NONE ctermfg=18 cterm=NONE guibg=NONE guifg=#000087 gui=NONE
