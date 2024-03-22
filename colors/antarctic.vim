@@ -24,6 +24,7 @@ hi PreProc ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Function ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Special ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Statement ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
+hi Operator ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi String ctermbg=NONE ctermfg=18 cterm=NONE guibg=NONE guifg=#000087 gui=NONE
 hi Todo ctermbg=51 ctermfg=234 cterm=NONE guibg=#00ffff guifg=#1c1c1c gui=NONE
 hi Type ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
