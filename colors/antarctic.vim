@@ -25,6 +25,9 @@ hi Function ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NON
 hi Special ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Statement ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Operator ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
+hi @variable ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
+hi Delimiter ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
+hi NormalFloat ctermbg=248 ctermfg=234 cterm=NONE guibg=#a8a8a8 guifg=#1c1c1c gui=NONE
 hi String ctermbg=NONE ctermfg=18 cterm=NONE guibg=NONE guifg=#000087 gui=NONE
 hi Todo ctermbg=51 ctermfg=234 cterm=NONE guibg=#00ffff guifg=#1c1c1c gui=NONE
 hi Type ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
@@ -64,6 +67,7 @@ hi SpellRare ctermbg=225 ctermfg=234 cterm=NONE guibg=#ffd7ff guifg=#1c1c1c gui=
 hi ColorColumn ctermbg=252 ctermfg=NONE cterm=NONE guibg=#d0d0d0 guifg=NONE gui=NONE
 hi SignColumn ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
 hi ErrorMsg ctermbg=218 ctermfg=234 cterm=NONE guibg=#ffafd7 guifg=#1c1c1c gui=NONE
+hi NvimInternalError ctermbg=218 ctermfg=234 cterm=NONE guibg=#ffafd7 guifg=#1c1c1c gui=NONE
 hi ModeMsg ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
 hi MoreMsg ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
 hi Question ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
