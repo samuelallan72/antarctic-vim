@@ -87,6 +87,14 @@ hi link QuickFixLine Search
 hi link diffAdded DiffAdd
 hi link diffRemoved DiffDelete
 hi link EndOfBuffer ColorColumn
+hi link DiagnosticError ErrorMsg
+hi link DiagnosticWarn SpellBad
+hi link DiagnosticInfo SpellRare
+hi link DiagnosticHint SpellCap
+hi link DiagnosticUnderlineError ErrorMsg
+hi link DiagnosticUnderlineWarn SpellBad
+hi link DiagnosticUnderlineInfo SpellRare
+hi link DiagnosticUnderlineHint SpellCap
 
 
 " Generated with a modified version of RNB (https://github.com/romainl/vim-rnb)
