@@ -82,10 +82,14 @@ hi Character ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NO
 hi helpHyperTextJump ctermbg=NONE ctermfg=20 cterm=underline guibg=NONE guifg=#0000d7 gui=underline
 
 hi link Number Constant
+hi link Added DiffAdd
+hi link diffAdded DiffAdd
+hi link Changed DiffChange
+hi link diffChanged DiffChange
+hi link Removed DiffDelete
+hi link diffRemoved DiffDelete
 hi link IncSearch Search
 hi link QuickFixLine Search
-hi link diffAdded DiffAdd
-hi link diffRemoved DiffDelete
 hi link EndOfBuffer ColorColumn
 hi link DiagnosticError ErrorMsg
 hi link DiagnosticWarn SpellBad
