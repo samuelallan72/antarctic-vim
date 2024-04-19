@@ -81,24 +81,24 @@ hi Keyword ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Character ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi helpHyperTextJump ctermbg=NONE ctermfg=20 cterm=underline guibg=NONE guifg=#0000d7 gui=underline
 
-hi link Number Constant
-hi link Added DiffAdd
-hi link diffAdded DiffAdd
-hi link Changed DiffChange
-hi link diffChanged DiffChange
-hi link Removed DiffDelete
-hi link diffRemoved DiffDelete
-hi link IncSearch Search
-hi link QuickFixLine Search
-hi link EndOfBuffer ColorColumn
-hi link DiagnosticError ErrorMsg
-hi link DiagnosticWarn SpellBad
-hi link DiagnosticInfo SpellRare
-hi link DiagnosticHint SpellCap
-hi link DiagnosticUnderlineError ErrorMsg
-hi link DiagnosticUnderlineWarn SpellBad
-hi link DiagnosticUnderlineInfo SpellRare
-hi link DiagnosticUnderlineHint SpellCap
+hi! link Number Constant
+hi! link Added DiffAdd
+hi! link diffAdded DiffAdd
+hi! link Changed DiffChange
+hi! link diffChanged DiffChange
+hi! link Removed DiffDelete
+hi! link diffRemoved DiffDelete
+hi! link IncSearch Search
+hi! link QuickFixLine Search
+hi! link EndOfBuffer ColorColumn
+hi! link DiagnosticError ErrorMsg
+hi! link DiagnosticWarn SpellBad
+hi! link DiagnosticInfo SpellRare
+hi! link DiagnosticHint SpellCap
+hi! link DiagnosticUnderlineError ErrorMsg
+hi! link DiagnosticUnderlineWarn SpellBad
+hi! link DiagnosticUnderlineInfo SpellRare
+hi! link DiagnosticUnderlineHint SpellCap
 
 
 " Generated with a modified version of RNB (https://github.com/romainl/vim-rnb)
