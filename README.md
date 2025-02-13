@@ -2,8 +2,6 @@
 
 A bleak, functional colorscheme with a splash of colour where needed.
 
-Copyright © 2019 Samuel Walladge
-
 
 ## About
 
@@ -58,7 +56,7 @@ Edit the variables in `colors/paper.erb` and run `make` to build
 ```
 The MIT License (MIT)
 
-Copyright (c) 2019 Samuel Walladge
+Copyright © 2019-2025 Samuel Allan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
