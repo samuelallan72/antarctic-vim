@@ -10,11 +10,11 @@ endif
 
 let colors_name = "antarctic"
 
-hi Normal ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
+hi Normal ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
 
 set background=light
 
-hi NonText ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
+hi NonText ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
 hi Comment ctermbg=252 ctermfg=234 cterm=NONE guibg=#d0d0d0 guifg=#1c1c1c gui=NONE
 hi Constant ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Error ctermbg=210 ctermfg=234 cterm=NONE guibg=#ff8787 guifg=#1c1c1c gui=NONE
@@ -46,9 +46,9 @@ hi helpNormal ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=N
 hi Visual ctermbg=153 ctermfg=NONE cterm=NONE guibg=#afd7ff guifg=NONE gui=NONE
 hi VisualNOS ctermbg=153 ctermfg=NONE cterm=NONE guibg=#afd7ff guifg=NONE gui=NONE
 hi Pmenu ctermbg=248 ctermfg=234 cterm=NONE guibg=#a8a8a8 guifg=#1c1c1c gui=NONE
-hi PmenuSbar ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
-hi PmenuSel ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
-hi PmenuThumb ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
+hi PmenuSbar ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
+hi PmenuSel ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
+hi PmenuThumb ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
 hi FoldColumn ctermbg=249 ctermfg=234 cterm=NONE guibg=#b2b2b2 guifg=#1c1c1c gui=NONE
 hi Folded ctermbg=253 ctermfg=237 cterm=italic guibg=#dadada guifg=#3a3a3a gui=italic
 hi WildMenu ctermbg=230 ctermfg=234 cterm=NONE guibg=#ffffd7 guifg=#1c1c1c gui=NONE
@@ -65,18 +65,18 @@ hi SpellCap ctermbg=219 ctermfg=234 cterm=NONE guibg=#ffafff guifg=#1c1c1c gui=N
 hi SpellLocal ctermbg=223 ctermfg=234 cterm=NONE guibg=#ffd7af guifg=#1c1c1c gui=NONE
 hi SpellRare ctermbg=225 ctermfg=234 cterm=NONE guibg=#ffd7ff guifg=#1c1c1c gui=NONE
 hi ColorColumn ctermbg=252 ctermfg=NONE cterm=NONE guibg=#d0d0d0 guifg=NONE gui=NONE
-hi SignColumn ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
+hi SignColumn ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
 hi ErrorMsg ctermbg=218 ctermfg=234 cterm=NONE guibg=#ffafd7 guifg=#1c1c1c gui=NONE
 hi NvimInternalError ctermbg=218 ctermfg=234 cterm=NONE guibg=#ffafd7 guifg=#1c1c1c gui=NONE
-hi ModeMsg ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
-hi MoreMsg ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
-hi Question ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
+hi ModeMsg ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
+hi MoreMsg ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
+hi Question ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
 hi WarningMsg ctermbg=218 ctermfg=234 cterm=NONE guibg=#ffafd7 guifg=#1c1c1c gui=NONE
 hi Cursor ctermbg=232 ctermfg=NONE cterm=NONE guibg=#080808 guifg=NONE gui=NONE
 hi CursorLine ctermbg=230 ctermfg=NONE cterm=NONE guibg=#ffffd7 guifg=NONE gui=NONE
 hi CursorColumn ctermbg=230 ctermfg=NONE cterm=NONE guibg=#ffffd7 guifg=NONE gui=NONE
 hi StatusLineTerm ctermbg=24 ctermfg=255 cterm=NONE guibg=#005f87 guifg=#eeeeee gui=NONE
-hi StatusLineTermNC ctermbg=254 ctermfg=234 cterm=NONE guibg=#e4e4e4 guifg=#1c1c1c gui=NONE
+hi StatusLineTermNC ctermbg=255 ctermfg=234 cterm=NONE guibg=#eeeeee guifg=#1c1c1c gui=NONE
 hi Keyword ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi Character ctermbg=NONE ctermfg=234 cterm=NONE guibg=NONE guifg=#1c1c1c gui=NONE
 hi helpHyperTextJump ctermbg=NONE ctermfg=20 cterm=underline guibg=NONE guifg=#0000d7 gui=underline
